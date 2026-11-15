@@ -1,3 +1,4 @@
+https://harshrcan.github.io/aplus-prep/
 # CompTIA A+ Prep (220-1201 + 220-1202)
 
 A 28-day CompTIA A+ study plan as a static web app. No build step. Works on phones (installable, offline after first load).
